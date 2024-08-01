@@ -94,6 +94,16 @@ work:
       - Optimized AIS data processing, significantly improving the accuracy of ETA predictions and contributing to cost savings.
       - Utilized unsupervised machine learning techniques to derive actionable insights, improving operational efficiency and reducing fuel consumption.
       - Presented analysis findings to cross-functional teams, supporting a data-centric decision-making culture.
+  - position: Exotics Derivatives Trader
+    company_name: Santander Bank, Spain
+    company_url: 'https://www.bancosantander.es/'
+    company_logo: ''
+    date_start: 2020-02-01
+    date_end: 2020-09-24
+    summary: |
+      - Designed and implemented Python-based automation tools for trading operations, reducing manual errors and improving task efficiency.
+      - Conducted thorough market data analysis, leveraging quantitative models to optimize trading positions and identify profitable opportunities.
+      - Assisted in data trading and market analytics in the trading table, overseeing market triggers and movements to calculate best stock, futures and exotics derivatives prices for the brokers.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,21 +126,21 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: violin
+      - name: Reading
+        description: ''
+        percent: 90
+        icon: book
+      - name: Movies/series
         description: ''
         percent: 80
-        icon: camera
+        icon: TV
 
 languages:
-  - name: spanish
+  - name: Spanish
     percent: 100
   - name: English
     percent: 100
@@ -142,7 +152,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Marie Curie
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
@@ -171,4 +181,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alba is a data scientist with a strong background in data science and analytics, skilled in extracting, engineering, and modeling complex datasets. She is proficient in Python, SQL, and data visualization tools, with experience in creating impactful dashboards and reports. Adept at translating technical findings into clear, actionable insights for both technical and non-technical stakeholders. Passionate about solving business problems with creative data solutions, and eager to contribute to strategic analytics projects.
