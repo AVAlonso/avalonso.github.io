@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alba Alonso - Data Scientist
+title: Alba Vega Alonso Tetilla
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/alonsophysics
-  - icon: brands/instagram
-    url: ''
+  #- icon: brands/instagram
+  #  url: ''
   - icon: brands/github
     url: https://github.com/AVAlonso/
   - icon: brands/linkedin
@@ -102,7 +102,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
