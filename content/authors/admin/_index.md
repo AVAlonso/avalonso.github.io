@@ -130,11 +130,11 @@ skills:
         icon: camera
 
 languages:
+  - name: spanish
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Italian
     percent: 25
 
 # Awards.
