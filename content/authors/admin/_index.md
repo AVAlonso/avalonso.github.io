@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Alba Alonso - Data Scientist
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alba Vega
+last_name: Alonso Tetilla
 
 # Status emoji
 status:
@@ -20,92 +20,80 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Southampton
+    url: https://www.southampton.ac.uk/research/institutes-centres/astronomy-group/people
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alonso1058@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/alonsophysics
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: ''
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AVAlonso/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alba-alonso-astrophysics/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=__noCBMAAAAJ&hl=es
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6916-9133
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Statistical analysis
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Astrophysics
+    institution: University of Southampton, UK
+    date_start: 2020-09-24
+    date_end: 2024-09-24
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissecting the origin of obscuration in AGN via comprehensive semi-analytic and semi-empirical orientation and evolutionary models. Supervised by [Prof Francesco Shankar](https://www.southampton.ac.uk/people/5xbhbs/professor-francesco-shankar). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Astrophysics
+    institution: Complutense University of Madrid, Spain
+    date_start: 2019-09-01
+    date_end: 2020-09-15
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      ''
+  - area: BSc Physics
+    institution: University of Salamanca, Spain
+    date_start: 2015-09-15
+    date_end: 2019-09-15
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      ''
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant - Data Analyst
+    company_name: University of Southampton, UK
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-06-01
+    date_end: 2024-07-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Led data collection and cleaning efforts, ensuring data accuracy and completeness for operational analysis.
+      - Conducted statistical analysis using Python, identifying key trends and patterns to support strategic decisions in quality performance.
+      - Worked with UN Comtrade API for data cleaning and statistical analysis of database data, including unsupervised Machine Learning.
+  - position: Data Scientist
+    company_name: OmegaLambdaTec GmbH, Germany
+    company_url: 'https://omegalambdatec.com/en/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01-15
+    date_end: 2023-04-14
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Optimized AIS data processing, significantly improving the accuracy of ETA predictions and contributing to cost savings.
+      - Utilized unsupervised machine learning techniques to derive actionable insights, improving operational efficiency and reducing fuel consumption.
+      - Presented analysis findings to cross-functional teams, supporting a data-centric decision-making culture.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
